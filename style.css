@@ -1,0 +1,17 @@
+.important {
+    font-style: bold;
+    overflow: hidden;
+    font-style: initial;
+}
+.notimportant {
+    overflow: hidden;
+    font-style: italic;
+}
+.attrib {
+    float: left;
+    margin-left: 35%;
+}
+.isian {
+    float: right;
+    margin-right: 35%;
+}
